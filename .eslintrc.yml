@@ -1,0 +1,5 @@
+root: true
+extends: isiahmeadows/es6
+parserOptions:
+    sourceType: module
+    ecmaVersion: 2018
